@@ -1,0 +1,7 @@
+body {
+    padding: 50px;
+    color: #f7f7f7;
+    min-height: 100vh;
+    text-rendering: optimizeSpeed;
+    font-family: "Roboto", sans-serif;
+  }
